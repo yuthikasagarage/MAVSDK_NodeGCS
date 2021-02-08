@@ -1,16 +1,12 @@
-let’s install MAVSDK-Python:
-[pip3 install mavsdk]
+## MAVSDK Ground Control Station
 
-install the lightweight package called “aioconsole”, which provides apython
+# install the lightweight package called “aioconsole”, which provides apython
 [pip3 install aioconsole]
 
-start SITL
+# start SITL
 [make px4_sitl_default jmavsim]
 
-node install
-[npm install]
-[]npm start]
+# npm start]
 
-goto link to takeoff
-http://localhost:3000/takeoff
+# http://localhost:3000/
 
